@@ -1,0 +1,10 @@
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has sent the IDENTIFY payload.
+INFO:discord.gateway:Shard ID None has connected to Gateway: ["gateway-prd-main-0n95",{"micros":52803,"calls":["discord-sessions-blue-prd-2-44",{"micros":50083,"calls":["start_session",{"micros":42038,"calls":["discord-api-6db46b8d45-b2kdj",{"micros":38116,"calls":["get_user",{"micros":6510},"add_authorized_ip",{"micros":1392},"get_guilds",{"micros":5339},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 9fce9b3e49f5de19afe67feb79f3762f).
+INFO:root:<Clement> : !help
+INFO:root:<Clement> : !ping
+INFO:root:<Clement> : !ping
+INFO:discord.client:Cleaning up tasks.
+INFO:discord.client:Cleaning up after 1 tasks.
+INFO:discord.client:All tasks finished cancelling.
+INFO:discord.client:Closing the event loop.

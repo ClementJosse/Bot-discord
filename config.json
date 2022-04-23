@@ -1,0 +1,7 @@
+{
+	"log_file": "log.log"
+	"prefix": "!",
+	"log_format": "%(asctime)s %(message)s",
+	"log_date": "[%m/%d/%Y-%I:%M:%S]",
+	"token": "OTY0OTMyOTQ5MjczMzc0ODUx.Ylr11g.N2OwAYgZ0kh13QF6-fRrqsUr_gM"
+}
