@@ -35,7 +35,7 @@ def parse_args() -> Namespace:
     return parser.parse_args()
 
 def setup_log():
-    logging.basicConfig(filename='log.log',pathname='\Users\cleme\Desktop\ChessfoumiBot\pythonbot\tp4', level=logging.INFO)
+    logging.basicConfig(filename='log.log', level=logging.INFO)
 
 load_dotenv(dotenv_path="config")
 
